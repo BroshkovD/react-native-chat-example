@@ -11,7 +11,7 @@ Example of simple React Native Chat app with Firebase
 ## Getting Started
 
 ```
-git clone https://github.com/BroshkovD/react-native-chat-example.git react-ssr-example && cd react-ssr-example
+git clone https://github.com/BroshkovD/react-native-chat-example.git  rnchat && cd rnchat
 
 yarn install or npm i
 
